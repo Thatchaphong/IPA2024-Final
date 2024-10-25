@@ -21,7 +21,7 @@ ACCESS_TOKEN = "Bearer"+' '+os.environ.get('webextoken')
 
 # Defines a variable that will hold the roomId
 roomIdToGetMessages = (
-                       "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZWE2NGZkZjAtM2RjYS0xMWVmLThjZTAtYjdiOWNhYmQ1MjY4"
+                       "Y2lzY29zcGFyazovL3VzL1JPT00vNTFmNTJiMjAtNWQwYi0xMWVmLWE5YTAtNzlkNTQ0ZjRkNGZi"
                       )
 
 while True:
